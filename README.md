@@ -61,7 +61,7 @@ Em usinas solares, o dado de POA é essencial para avaliar a eficiência da gera
 
 **Alexsander Maia Simas**\
 Pleno Cientista de Dados | Especialista em Energia Solar\
-[LinkedIn](https://www.linkedin.com/in/seu-usuario) | [alexsander@email.com](mailto\:alexsander@email.com)
+[LinkedIn](https://www.linkedin.com/in/alexsander-maia-simas-371222112/) | [alexsandermaiat2@gmail.com](mailto\:alexsandermaiat2@gmail.com)
 
 ---
 
