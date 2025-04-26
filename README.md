@@ -1,12 +1,12 @@
-🌞 Correção de Dados de Irradiância Solar com Regressão Linear
+#🌞 Correção de Dados de Irradiância Solar com Regressão Linear
 
-📄 Sobre o Projeto
+###📄 Sobre o Projeto
 
 Este repositório foi criado com o objetivo de automatizar o processo de correção de dados faltantes ou inconsistentes de POA (Plane of Array - Irradiância Solar no Plano do Módulo Fotovoltaico), utilizando Machine Learning com foco em Regressão Linear.
 
 Em usinas solares, o dado de POA é essencial para avaliar a eficiência da geração de energia em relação ao previsto por simuladores como o PVSyst. Quando esses dados são perdidos (por falhas em sensores, comunicação, entre outros), a análise de desempenho e os KPIs ficam comprometidos. Este projeto resolve esse problema de forma automática e inteligente.
 
-✨ Principais Benefícios
+###✨ Principais Benefícios
 
 Correção automatizada de falhas nos dados de irradiância
 
@@ -18,7 +18,7 @@ Aproveitamento de dados de usinas vizinhas (em clusters regionais)
 
 Melhoria na precisão dos KPIs de eficiência
 
-⚖️ Tecnologias Utilizadas
+###⚖️ Tecnologias Utilizadas
 
 Python 
 
@@ -32,7 +32,7 @@ Matplotlib / Plotly (para visualizações)
 
 Jupyter Notebook (para testes e desenvolvimento)
 
-⚡ Como Funciona
+###⚡ Como Funciona
 
 Leitura do Dataset: O modelo consome um DataFrame com informações de produção e irradiância (quando existente).
 
@@ -44,11 +44,11 @@ Predição: O modelo é usado para prever valores de POA ausentes com base em da
 
 Validação: Métricas como R² Score e MSE são utilizadas para avaliar a qualidade do modelo.
 
-👨‍💼 Autor
+#👨‍💼 Autor
 
 Alexsander Maia SimasPleno Cientista de Dados | Especialista em Energia SolarLinkedIn | alexsander@email.com
 
-📚 Licença
+#📚 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
