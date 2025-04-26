@@ -24,7 +24,10 @@ Em usinas solares, o dado de POA é essencial para avaliar a eficiência da gera
 - Pandas
 - NumPy
 - Scikit-learn
+- yellowbrick
+- datetime
 - Matplotlib / Plotly (para visualizações)
+- Scipy (detecção de outliers e limpeza de dados utilizando Mahalanobis)
 - Jupyter Notebook (para testes e desenvolvimento)
 
 ---
@@ -50,6 +53,7 @@ Em usinas solares, o dado de POA é essencial para avaliar a eficiência da gera
 - [ ] Generalização dos dados que serão analisados
 - [ ] Adicionar suporte para modelos mais robustos (XGBoost, LightGBM)
 - [ ] Criar painel em Streamlit para visualização interativa dos resultados
+- [ ] Acesso aos modelos pkl utilizando API
 
 ---
 
