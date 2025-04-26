@@ -1,5 +1,9 @@
 # 🌞 Correção de Dados de Irradiância Solar com Regressão Linear
 
+![Badge Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Licença](https://img.shields.io/badge/licença-MIT-green)
+
 ## 📄 Sobre o Projeto
 
 Este repositório foi criado com o objetivo de automatizar o processo de correção de dados faltantes ou inconsistentes de **POA (Plane of Array - Irradiância Solar no Plano do Módulo Fotovoltaico)**, utilizando **Machine Learning com foco em Regressão Linear**.
@@ -60,7 +64,7 @@ Em usinas solares, o dado de POA é essencial para avaliar a eficiência da gera
 ## 👨‍💼 Autor
 
 **Alexsander Maia Simas**\
-Pleno Cientista de Dados | Especialista em Energia Solar\
+Cientista de Dados JR | Especialista em Energia Solar\
 [LinkedIn](https://www.linkedin.com/in/alexsander-maia-simas-371222112/) | [alexsandermaiat2@gmail.com](mailto\:alexsandermaiat2@gmail.com)
 
 ---
