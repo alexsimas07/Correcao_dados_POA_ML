@@ -1,5 +1,4 @@
 # 🌞 Correção de Dados de Irradiância Solar com Regressão Linear
-
 ![Badge Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
